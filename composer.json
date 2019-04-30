@@ -1,0 +1,13 @@
+{
+    "name": "qboot/benchmark-influxdb-elasticsearch",
+    "require": {
+        "influxdb/influxdb-php": "^1.14",
+        "ruflin/elastica": "^6.1"
+    },
+    "authors": [
+        {
+            "name": "Quentin Brunet",
+            "email": "hello@quentinbrunet.com"
+        }
+    ]
+}
